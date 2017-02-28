@@ -1,1 +1,2 @@
-To jest jakis tekst
+To jest jakis tekst i teraz
+go edytuje
